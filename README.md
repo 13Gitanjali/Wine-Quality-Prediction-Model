@@ -26,7 +26,3 @@ To use this model, run the script `predict.py` with a .csv file containing the w
 ## Contributing
 
 Contributions are welcome! Please read the contributing guidelines before making any changes.
-
-## License
-
-This project is licensed under the terms of the MIT license.🚀
